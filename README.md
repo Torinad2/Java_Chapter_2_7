@@ -1,4 +1,4 @@
-Sales Tax
+Starting out with Java. Chapter 2, Assignment 7: Sales Tax.
 
 Write a program that will ask the user to enter the amount of a purchase. The program
 should then compute the state and county sales tax. Assume the state sales tax is 4 percent
